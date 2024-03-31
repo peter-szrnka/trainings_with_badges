@@ -13,6 +13,11 @@ Link: explore.skillbuilder.aws
 
 TODO
 
+### Cloud Quest
+Link:https://aws.amazon.com/training/digital/aws-cloud-quest/
+
+TODO
+
 ## IBM
 Link: https://bundles.yourlearning.ibm.com/skills/learn/#page/VQMMDRZZVEZX255J
 
@@ -25,6 +30,8 @@ TODO
 
 ## Atlassian
 Link: https://university.atlassian.com/student/collection/850385-learning-paths
+
+TODO
 
 ## Slack
 Link: https://university.atlassian.com/student/catalog/list?category_ids=21734-free-training
