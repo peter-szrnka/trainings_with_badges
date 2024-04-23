@@ -43,6 +43,9 @@ Link: https://university.atlassian.com/student/collection/850385-learning-paths
 
 TODO
 
+## SmartBear Academy
+TODO https://academy.smartbear.com/learner-dashboard
+
 ## Slack
 Link: https://university.atlassian.com/student/catalog/list?category_ids=21734-free-training
 
