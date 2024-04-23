@@ -36,7 +36,6 @@ TODO
 ## Postman Academy
 Link: [https://academy.postman.com](https://academy.postman.com)
 - Postman API Fundamentals Student Expert: https://academy.postman.com/path/postman-api-fundamentals-student-expert
-- Project-Based Learning: Build an AI Text Summarizer app: https://academy.postman.com/project-ai-text-summarizer
 - API Beginner: https://academy.postman.com/path/api-beginner
 - Admin: https://academy.postman.com/path/admin
 - Engineer Learning Path: https://academy.postman.com/path/engineer-learning-path
