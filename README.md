@@ -33,10 +33,13 @@ Link: https://bundles.yourlearning.ibm.com/skills/learn/#page/VQMMDRZZVEZX255J
 
 TODO
 
-## Postman
-Link: [https://www.postman.com/student-program/](https://academy.postman.com/)
-
-TODO
+## Postman Academy
+Link: [https://academy.postman.com](https://academy.postman.com)
+- [https://academy.postman.com/path/postman-api-fundamentals-student-expert](Postman API Fundamentals Student Expert)
+- [https://academy.postman.com/project-ai-text-summarizer](Project-Based Learning: Build an AI Text Summarizer app)
+- [https://academy.postman.com/path/api-beginner](API Beginner)
+- [https://academy.postman.com/path/admin](Admin)
+- [https://academy.postman.com/path/engineer-learning-path](Engineer Learning Path)
 
 ## Atlassian
 Link: https://university.atlassian.com/student/collection/850385-learning-paths
