@@ -34,7 +34,7 @@ Link: https://bundles.yourlearning.ibm.com/skills/learn/#page/VQMMDRZZVEZX255J
 TODO
 
 ## Postman
-Link: https://www.postman.com/student-program/
+Link: [https://www.postman.com/student-program/](https://academy.postman.com/)
 
 TODO
 
